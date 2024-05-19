@@ -36,7 +36,7 @@ TBD
 
 ## Contributors
 
-- Your Name <sandystraw137@gmail.com>
+- Apostle Tree <sandystraw137@gmail.com>
 
 ## License
 
